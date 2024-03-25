@@ -1,0 +1,24 @@
+{
+  "name": "djangoexample",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo de django",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EjemplosADSI/DjangoExample.git"
+  },
+  "keywords": [
+    "Django",
+    "SENA",
+    "Project"
+  ],
+  "author": "Antony y Diego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EjemplosADSI/DjangoExample/issues"
+  },
+  "homepage": "https://github.com/EjemplosADSI/DjangoExample#readme"
+}

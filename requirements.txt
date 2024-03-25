@@ -1,0 +1,6 @@
+django
+django-bootstrap5
+django-crispy-forms
+crispy-bootstrap5
+pillow
+django_dump_die
